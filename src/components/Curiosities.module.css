@@ -1,0 +1,57 @@
+.wrapper {
+    max-width: min(90rem, 90%);
+    margin-inline: auto;
+}
+
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.wrapper > img {
+    width: 70%;
+    border-radius: 1rem;
+    margin-top: 1.8rem;
+}
+
+.wrapper > h2 {
+    margin-top: 2rem;
+}
+
+
+.wrapper ul li:last-child p {
+    margin-bottom: 2rem;
+}
+
+.wrapper li img {
+    width: 60%;
+    margin-top: 1.8rem;
+    border-radius: 1.5rem;
+}
+
+.wrapper ul li {
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.wrapper ul li h3 {
+    margin-top: 3rem;
+    text-align: left;
+}
+
+
+.wrapper ul li img {
+    margin-bottom: 1.8rem;
+} 
+
+.wrapper ul li p {
+    font-size: 1.9rem;
+    line-height: 2rem;
+}

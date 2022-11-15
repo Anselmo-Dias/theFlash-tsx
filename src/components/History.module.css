@@ -1,0 +1,31 @@
+.wrapper {
+    max-width: min(90rem, 90%);
+    margin-inline: auto;
+}
+
+.history {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:  column;
+}
+
+.history img {
+    width: 60%;
+    margin-block: 3rem;
+    border-radius: 1rem;
+}
+
+.history strong {
+    font-size: 2.5rem;
+}
+
+.history p {
+    max-width: min(50rem, 100%);
+    text-align: justify;
+    margin-block: 1.8rem;
+}
+
+.history span {
+    color: #f8230f;
+}

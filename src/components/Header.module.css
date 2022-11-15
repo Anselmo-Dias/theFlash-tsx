@@ -1,0 +1,24 @@
+.wrapper {
+    max-width: min(90rem, 90%);
+    margin-inline: auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 1.8rem;
+
+}
+
+.header img {
+    width: 10rem;
+    border-radius: 1rem;
+}
+
+.linkList {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
