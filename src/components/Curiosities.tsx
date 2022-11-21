@@ -8,7 +8,7 @@ import curiosities4Img from "../assets/curiosidade4.png"
 
 export function Curiosities() {
     return(
-        <section className={styles.wrapper} id="Curiosities">
+        <section className={styles.wrapper} id="curiosities">
         <img src={curiositiesImg} alt="imagem do flash em forma de desenho"/>
         <h2 > Curiosidades sobre o Flash </h2>
 

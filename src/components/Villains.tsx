@@ -16,7 +16,7 @@ import zoomImg from "../assets/zoom.png"
 
 export function Villains() {
     return (
-        <section className={styles.wrapper} id="viloes">
+        <section className={styles.wrapper} id="villains">
         <img
          
           src={villainsImg}

@@ -12,7 +12,6 @@ export function Header() {
                         <li><a href="#history">Historia</a></li>
                         <li><a href="#villains">Vilões</a></li>
                         <li><a href="#curiosities">Curiosidades</a></li>
-                        <li><a href="#video">Video</a></li>
                     </ul>
                 </nav>
             </header>
