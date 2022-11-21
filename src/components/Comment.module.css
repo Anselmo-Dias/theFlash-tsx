@@ -1,0 +1,30 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+    border-radius: 8px;
+    background-color: rgb(192, 189, 189);
+    margin-top: 2rem;
+}
+
+.comment p {
+    font-size: 2rem;
+}
+
+
+.likeBox {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 0.5rem;
+}
+
+.buttonLike {
+    background-color: inherit;
+    border: none;
+}
+
+.like:hover {
+    color: red;
+}

@@ -1,0 +1,22 @@
+.wrapper {
+    max-width: min(90rem, 90%);
+    margin-inline: auto;
+    margin-top: 1.8rem;
+}
+
+.wrapper strong {
+    font-size: 2rem;
+}
+
+
+
+.container {
+    display: flex;
+    gap: 5rem;
+    margin-top: 1rem;
+}
+
+.container div ul {
+    display: flex;
+    gap: 5rem;
+}
