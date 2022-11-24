@@ -6,7 +6,7 @@
  The Flash
   <br />
   <br />
-  Html |  Css   
+  React |  Typescript   
 </h1>
   
 <p align="center">
