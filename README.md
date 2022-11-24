@@ -10,9 +10,8 @@
 </h1>
   
 <p align="center">
- <img alt="Html" src="https://img.shields.io/badge/hypertext%20-Html-important" /> 
-   <img alt="Html" src="https://img.shields.io/badge/Cascading%20Style sheets-Css-blue" />
-  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-%2398C611" />
+ <img alt="Html" src="https://img.shields.io/badge/react%20-JS-blue" /> 
+ <img alt="Html" src="https://img.shields.io/badge/Typescript%20 -TS-blue" />
  
 </p> 
 <br />
